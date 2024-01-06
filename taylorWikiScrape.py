@@ -9,3 +9,5 @@ paragraphs = soup.find_all('p')
 
 for paragraph in paragraphs:
     print(paragraph.get_text())
+
+print("Done!")
