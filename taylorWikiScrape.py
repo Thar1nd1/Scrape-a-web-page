@@ -11,3 +11,4 @@ for paragraph in paragraphs:
     print(paragraph.get_text())
 
 print("Done!")
+print("Thanks for using the script!")
